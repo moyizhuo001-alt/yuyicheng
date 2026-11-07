@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 官网下载与使用帮助
+    url: https://yijiankj.com.cn/#support
+    about: 先查看安装、记录与导出说明；不要公开账号密码或完整单据。
+  - name: 安全问题私下反馈
+    url: https://yijiankj.com.cn/#support
+    about: 请使用官网公布的反馈方式，不要在公开 Issues 发布安全漏洞细节。
