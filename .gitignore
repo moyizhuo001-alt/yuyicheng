@@ -1,0 +1,19 @@
+# This repository contains public product material only.
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.sql
+*.csv
+*.db
+*.sqlite*
+*.log
+node_modules/
+qa/
